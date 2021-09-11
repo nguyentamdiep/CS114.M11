@@ -1,8 +1,8 @@
 # CS114.M11
 Thành viên nhóm:
 
-  Nguyễn Tam Điệp (Nhóm trưởng)
+  Nguyễn Tam Điệp (Nhóm trưởng) - 19521360
   
-  Nguyễn Xuân Minh
+  Nguyễn Xuân Minh - 19521848
   
-  Nguyễn Đức Thắng
+  Nguyễn Đức Thắng - 19522206
